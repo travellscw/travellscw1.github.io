@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.fondopagina {
+	background-color: rgba(64, 207, 255,0.15);
+}
+
+.encabezado, .menudecontenido , footer {
+	background-color:rgba(181, 178, 178,0.50);
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+	}
+
+.encabezado {
+	border-color: green;
+	border-width: 3px;
+	border-style: solid;
+}
+
+#logotexto {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#TITULOPRINCIPAL{
+	text-align: center;
+}
+
+.C {
+	color: #008000;
+	font-family: Rockwell;
+}
+
+ .T {
+ 	color: white;
+ 	font-family: Rockwell;
+
+ }
+.MENUDEOPCIONES{
+	background-color:#00008B;
+	overflow: hidden;
+
+}
+
+#opcion {
+	background-color:#00008B;
+	 list-style: none;
+	 float:right;
+}
+
+#enlaces {
+	padding: 10px 20px;
+	display: block;
+	color: white;
+	text-decoration: none;
+
+}
+
+#opcion:hover {
+background-color:blue;
+transition: background-color 2s;
+}
+
+#parrafoi {
+	font-size: 25px;
+	font-family: Impact;
+}
+
+#g {
+	font-size: 50px;
+	font-family: Rockwell Condensed;
+
+}
+
+#grecia {
+
+background-color:rgba(181, 178, 178,0.50);
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+}
+
+
